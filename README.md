@@ -1,4 +1,6 @@
 # HRI Codign Assignment 2
+## Example video
+https://youtu.be/rB4InQveUiE
 ## The code
 The code comes in two parts:
 * Python server
